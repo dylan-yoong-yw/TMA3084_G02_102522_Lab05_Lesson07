@@ -33,7 +33,7 @@ class BottomNavLab extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Lab A: Four Screens'),
+        title: const Text('Lab 05: Exercise A'),
         backgroundColor: Colors.blue,
         foregroundColor: Colors.white,
       ),
